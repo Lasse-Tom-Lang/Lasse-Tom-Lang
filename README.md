@@ -1,4 +1,15 @@
 # Lasse Lang
+## About me
+* Student at 9. grade
+* 14 years old
+* My other hobbys:
+  * Making music
+  * Photography and Videography
+  * Member at [THW](https://www.thw.de/DE/Startseite/startseite_node.html) and [DRK](https://www.drk.de)
+* Favourite subjects
+  * Maths 
+  * Chemistry 
+  * Physics
 ## My favorite languages
 * Python
 * C# (In Unity)
@@ -7,7 +18,6 @@
 * CSS
 * JavaScript
 * PHP
----
 ## My accounts
 * [Stack Overflow](https://stackoverflow.com/users/18135352/lasse-lang?tab=profile)
 * [GitLab](https://gitlab.com/Lasse-Tom-Lang)
