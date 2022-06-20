@@ -1,7 +1,8 @@
 # Lasse Lang
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lasse-Tom-Lang&show-icons=true&hide-border=true" />
-
+<br />
+<br />
 ## About me
 * Student at 9. grade
 * 14 years old
