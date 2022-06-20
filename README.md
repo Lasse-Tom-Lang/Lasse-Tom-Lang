@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Lasse-Tom-Lang/Lasse-Tom-Lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Lasse Lang
+## My favorite languages
+* Python
+* C# (In Unity)
+* Arduino C
+* HTML
+* CSS
+* JavaScript
+* PHP
+---
+## My accounts
+* [Stack Overflow](https://stackoverflow.com/users/18135352/lasse-lang?tab=profile)
+* [GitLab](https://gitlab.com/Lasse-Tom-Lang)
+* [Itch.io](https://lassetfl.itch.io)
+* [CSSBattle](https://cssbattle.dev/player/lasselang)
