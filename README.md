@@ -4,8 +4,8 @@
 
 ## About me
 * Student at 9. grade
-* 14 years old
-* My other hobbys:
+* 15 years old
+* My hobbys:
   * Making music
   * Photography and Videography
   * Member at [THW](https://www.thw.de/DE/Startseite/startseite_node.html) and [DRK](https://www.drk.de)
@@ -26,3 +26,4 @@
 * [GitLab](https://gitlab.com/Lasse-Tom-Lang)
 * [Itch.io](https://lassetfl.itch.io)
 * [CSSBattle](https://cssbattle.dev/player/lasselang)
+* [Docker](https://hub.docker.com/u/lassetfl)
