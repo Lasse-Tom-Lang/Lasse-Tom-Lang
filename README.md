@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Lasse Lang
 
+<details>
+<summary>
+
+## 📊 My GitHub Stats
+
+</summary>
 <img align="left" width=48% alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lasse-Tom-Lang&show_icons=true&hide-border=true&theme=radical" />
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasse-tom-lang&theme=radical&layout=compact&langs_count=4" />
+<img width=48% src="http://github-readme-streak-stats.herokuapp.com?user=Lasse-Tom-Lang&theme=radical" />
+</details>
 
 ## 🙍‍♂️ About me
 * 👨‍🎓 Student at 9. grade
