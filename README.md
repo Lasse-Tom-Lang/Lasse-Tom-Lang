@@ -19,6 +19,7 @@
   * ♫ Making music
   * 📷 Photography and Videography
   * Member at 🚨 [THW](https://www.thw.de/DE/Startseite/startseite_node.html) and 🚑 [DRK](https://www.drk.de)
+  * ♟ Playing chess
 * Favourite subjects
   * Maths 
   * Chemistry 
@@ -35,3 +36,5 @@
 * [CSSBattle](https://cssbattle.dev/player/lasselang)
 * [Docker](https://hub.docker.com/u/lassetfl)
 * [TryHackMe](https://tryhackme.com/p/LassseTFL)
+## 🤝 Connect with me
+I would like to connect with you to code or to play a round of chess. You can connect with me by writing an [email](mailto:lasse.lang@gmx.de).
