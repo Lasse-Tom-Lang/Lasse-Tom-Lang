@@ -9,7 +9,7 @@
 <img align="left" width=49% alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lasse-Tom-Lang&show_icons=true&hide-border=true&theme=radical" />
 <img align="left" width=49% src="http://github-readme-streak-stats.herokuapp.com?user=Lasse-Tom-Lang&theme=radical" />
 
-<img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasse-tom-lang&theme=radical&langs_count=7" />
+<img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasse-tom-lang&theme=radical&langs_count=10&layout=compact" />
 </details>
 
 ## 🙍‍♂️ About me
