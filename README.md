@@ -13,10 +13,9 @@
 </details>
 
 ## 🙍‍♂️ About me
-* 👨‍🎓 Student at 10. grade
-* 15 years old
+* 👨‍🎓 Student at 11. grade
+* 16 years old
 * My hobbys:
-  * ♫ Making music
   * 📷 Photography and Videography
   * Member at 🚨 [THW](https://www.thw.de/DE/Startseite/startseite_node.html) and 🚑 [DRK](https://www.drk.de)
   * ♟ Playing chess
